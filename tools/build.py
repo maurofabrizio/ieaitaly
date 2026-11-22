@@ -325,7 +325,7 @@ def page_html(p, content, ctx, wide=False, before="", after="", full=False, titl
 <link rel="canonical" href="{SITE}{here}">{alts}
 <meta property="og:title" content="{ttl}"><meta property="og:description" content="{desc}">
 <meta property="og:url" content="{SITE}{here}"><meta property="og:type" content="website">
-<link rel="icon" href="{img("/wp-content/uploads/2019/10/logo-iea.png")}">
+<link rel="icon" href="/assets/favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,600;7..72,700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/site.css">
@@ -333,7 +333,7 @@ def page_html(p, content, ctx, wide=False, before="", after="", full=False, titl
 <body>
 <a class="skip" href="#main">{T_["skip"]}</a>
 <header class="top"><div class="bar">
- <a class="brand" href="{HOME[lang]}"><img src="{img("/wp-content/uploads/2019/10/logo-iea.png")}" alt="" width="46" height="46"><span><b>IEA</b><small>{T_["name"]}</small></span></a>
+ <a class="brand" href="{HOME[lang]}"><img src="/wp-content/uploads/2019/10/cropped-images-1-5.png" alt="IEA – Istituto di Ecologia Applicata" width="618" height="139"></a>
  <button class="burger" aria-expanded="false" aria-controls="menu">{T_["menu"]}</button>
  <nav class="menu" id="menu" aria-label="Menu">{menu}<div class="lang" role="group" aria-label="Lingua">{langs}</div></nav>
 </div></header>
