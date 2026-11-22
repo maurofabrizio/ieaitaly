@@ -1,4 +1,4 @@
-# Immagini usate dal sito ma non ancora presenti nel repository.
+# Immagini usate dal sito ma non ancora nel repository.
 # Copiarle negli stessi percorsi (wp-content/uploads/...) e rilanciare build.py.
 /wp-content/uploads/2019/11/presidente1-1.png
 /wp-content/uploads/2020/01/Cani-da-guardiania-1.png
@@ -13,8 +13,6 @@
 /wp-content/uploads/2020/01/inventario2.png
 /wp-content/uploads/2020/01/risorse2-1.png
 /wp-content/uploads/2020/01/risorse2.png
-/wp-content/uploads/2020/02/icona-logo-lifemedwolf2.png
-/wp-content/uploads/2020/02/icona-logo-piattaforma-locale.png
 /wp-content/uploads/2020/02/icona-lupo-1.png
 /wp-content/uploads/2020/02/icona-lupo.png
 /wp-content/uploads/2020/02/piattaforma-locale-grandi-carnivori-gregge-di-pecore-1.png
